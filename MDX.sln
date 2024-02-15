@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "MDX", "MDX\MDX.dwproj", "{D8B4118A-1D7F-4CD6-AC16-BB22403698DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8B4118A-1D7F-4CD6-AC16-BB22403698DA}.Development|Default.ActiveCfg = Development
+		{D8B4118A-1D7F-4CD6-AC16-BB22403698DA}.Development|Default.Build.0 = Development
+		{D8B4118A-1D7F-4CD6-AC16-BB22403698DA}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BAEF3E9F-9722-4CE2-BF39-55F88E03E924}
+	EndGlobalSection
+EndGlobal
