@@ -8,30 +8,38 @@
   </Database>
   <Cubes>
     <ProjectItem>
-      <Name>Sales.cube</Name>
-      <FullPath>Sales.cube</FullPath>
+      <Name>Sales 1.cube</Name>
+      <FullPath>Sales 1.cube</FullPath>
       <Dependencies>
         <ProjectItem>
-          <Name>Sales.partitions</Name>
-          <FullPath>Sales.partitions</FullPath>
+          <Name>Sales 1.partitions</Name>
+          <FullPath>Sales 1.partitions</FullPath>
         </ProjectItem>
       </Dependencies>
     </ProjectItem>
   </Cubes>
   <Dimensions>
     <ProjectItem>
-      <Name>Product.dim</Name>
-      <FullPath>Product.dim</FullPath>
-    </ProjectItem>
-    <ProjectItem>
       <Name>Date.dim</Name>
       <FullPath>Date.dim</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Subcategory.dim</Name>
+      <FullPath>Subcategory.dim</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Category.dim</Name>
+      <FullPath>Category.dim</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Product 1.dim</Name>
+      <FullPath>Product 1.dim</FullPath>
     </ProjectItem>
   </Dimensions>
   <DataSources>
     <ProjectItem>
-      <Name>MDX.ds</Name>
-      <FullPath>MDX.ds</FullPath>
+      <Name>Sales.ds</Name>
+      <FullPath>Sales.ds</FullPath>
     </ProjectItem>
   </DataSources>
   <DataSourceViews>
@@ -46,22 +54,21 @@
       <Options>
         <ConnectionMappings>
           <ConfigurationSetting>
-            <Id>MDX</Id>
-            <Name>MDX</Name>
-            <Value xsi:type="xsd:string">Data Source=Nasir;Initial Catalog=MDX;User ID=;Password=;Encrypt=False</Value>
+            <Id>Sales</Id>
+            <Name>Sales</Name>
+            <Value xsi:type="xsd:string">Provider=MSOLEDBSQL.1;Data Source=Nasir;Persist Security Info=True;Password=;User ID=;Initial Catalog=MDX</Value>
           </ConfigurationSetting>
         </ConnectionMappings>
         <ConnectionProviderMappings>
           <ConfigurationSetting>
-            <Id>MDX</Id>
-            <Name>MDX</Name>
-            <Value xsi:type="xsd:string">System.Data.SqlClient</Value>
+            <Id>Sales</Id>
+            <Name>Sales</Name>
           </ConfigurationSetting>
         </ConnectionProviderMappings>
         <ConnectionSecurityMappings>
           <ConfigurationSetting>
-            <Id>MDX</Id>
-            <Name>MDX</Name>
+            <Id>Sales</Id>
+            <Name>Sales</Name>
             <Value xsi:type="xsd:int">1</Value>
           </ConfigurationSetting>
         </ConnectionSecurityMappings>
