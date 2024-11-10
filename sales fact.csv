@@ -1,0 +1,375 @@
+﻿ID,ProductName_fk,Date,SalesAmount,Category_fk,Subcategory_fk
+1,Road Bike 350,1/1/2020,439844,Bikes,Road Bikes
+2,Mountain Bike 450,2/1/2020,77251,Bikes,Mountain Bikes
+3,Touring Bike 600,3/1/2020,149388,Bikes,Touring Bikes
+4,Standard Helmet,1/1/2020,439092,Accessories,Helmets
+5,Racing Jacket,2/1/2020,344858,Clothing,Jackets
+6,Road Bike 350,2/2/2020,112137,Bikes,Road Bikes
+7,Mountain Bike 450,2/3/2020,252114,Bikes,Mountain Bikes
+8,Touring Bike 600,2/4/2020,140231,Bikes,Touring Bikes
+9,Standard Helmet,2/5/2020,177756,Accessories,Helmets
+10,Racing Jacket,2/6/2020,363211,Clothing,Jackets
+11,Road Bike 350,2/7/2020,213200,Bikes,Road Bikes
+12,Mountain Bike 450,2/8/2020,471080,Bikes,Mountain Bikes
+13,Touring Bike 600,2/9/2020,37240,Bikes,Touring Bikes
+14,Standard Helmet,2/10/2020,276989,Accessories,Helmets
+15,Racing Jacket,2/11/2020,265376,Clothing,Jackets
+16,Road Bike 350,2/12/2020,435937,Bikes,Road Bikes
+17,Mountain Bike 450,2/13/2020,226018,Bikes,Mountain Bikes
+18,Touring Bike 600,2/14/2020,33190,Bikes,Touring Bikes
+19,Standard Helmet,2/15/2020,313154,Accessories,Helmets
+20,Racing Jacket,2/16/2020,224489,Clothing,Jackets
+21,Road Bike 350,2/17/2020,472337,Bikes,Road Bikes
+22,Mountain Bike 450,2/18/2020,64489,Bikes,Mountain Bikes
+23,Touring Bike 600,2/19/2020,47427,Bikes,Touring Bikes
+24,Standard Helmet,2/20/2020,226601,Accessories,Helmets
+25,Racing Jacket,2/21/2020,494718,Clothing,Jackets
+26,Road Bike 350,2/22/2020,242902,Bikes,Road Bikes
+27,Mountain Bike 450,2/23/2020,201368,Bikes,Mountain Bikes
+28,Touring Bike 600,2/24/2020,348097,Bikes,Touring Bikes
+29,Standard Helmet,2/25/2020,492925,Accessories,Helmets
+30,Racing Jacket,2/26/2020,70071,Clothing,Jackets
+31,Road Bike 350,2/27/2020,497279,Bikes,Road Bikes
+32,Mountain Bike 450,2/28/2020,104419,Bikes,Mountain Bikes
+33,Touring Bike 600,2/29/2020,107036,Bikes,Touring Bikes
+34,Standard Helmet,3/1/2020,179486,Accessories,Helmets
+35,Racing Jacket,3/2/2020,215425,Clothing,Jackets
+36,Road Bike 350,3/3/2020,359209,Bikes,Road Bikes
+37,Mountain Bike 450,3/4/2020,471973,Bikes,Mountain Bikes
+38,Touring Bike 600,3/5/2020,48791,Bikes,Touring Bikes
+39,Standard Helmet,3/6/2020,464077,Accessories,Helmets
+40,Racing Jacket,3/7/2020,318697,Clothing,Jackets
+41,Road Bike 350,3/8/2020,494730,Bikes,Road Bikes
+42,Mountain Bike 450,3/9/2020,458703,Bikes,Mountain Bikes
+43,Touring Bike 600,3/10/2020,363458,Bikes,Touring Bikes
+44,Standard Helmet,3/11/2020,411182,Accessories,Helmets
+45,Racing Jacket,3/12/2020,53592,Clothing,Jackets
+46,Road Bike 350,3/13/2020,460129,Bikes,Road Bikes
+47,Mountain Bike 450,3/14/2020,481213,Bikes,Mountain Bikes
+48,Touring Bike 600,3/15/2020,431589,Bikes,Touring Bikes
+49,Standard Helmet,3/16/2020,458327,Accessories,Helmets
+50,Racing Jacket,3/17/2020,323754,Clothing,Jackets
+51,Road Bike 350,3/18/2020,441732,Bikes,Road Bikes
+52,Mountain Bike 450,3/19/2020,154868,Bikes,Mountain Bikes
+53,Touring Bike 600,3/20/2020,454077,Bikes,Touring Bikes
+54,Standard Helmet,3/21/2020,91185,Accessories,Helmets
+55,Racing Jacket,3/22/2020,69555,Clothing,Jackets
+56,Road Bike 350,3/23/2020,69694,Bikes,Road Bikes
+57,Mountain Bike 450,3/24/2020,323858,Bikes,Mountain Bikes
+58,Touring Bike 600,3/25/2020,441238,Bikes,Touring Bikes
+59,Standard Helmet,3/26/2020,105254,Accessories,Helmets
+60,Racing Jacket,3/27/2020,402991,Clothing,Jackets
+61,Road Bike 350,3/28/2020,466479,Bikes,Road Bikes
+62,Mountain Bike 450,3/29/2020,359238,Bikes,Mountain Bikes
+63,Touring Bike 600,3/30/2020,77609,Bikes,Touring Bikes
+64,Standard Helmet,3/31/2020,244534,Accessories,Helmets
+65,Racing Jacket,4/1/2020,221800,Clothing,Jackets
+66,Road Bike 350,4/2/2020,340619,Bikes,Road Bikes
+67,Mountain Bike 450,4/3/2020,188784,Bikes,Mountain Bikes
+68,Touring Bike 600,4/4/2020,213339,Bikes,Touring Bikes
+69,Standard Helmet,4/5/2020,91210,Accessories,Helmets
+70,Racing Jacket,4/6/2020,439265,Clothing,Jackets
+71,Road Bike 350,4/7/2020,412140,Bikes,Road Bikes
+72,Mountain Bike 450,4/8/2020,197316,Bikes,Mountain Bikes
+73,Touring Bike 600,4/9/2020,345612,Bikes,Touring Bikes
+74,Standard Helmet,4/10/2020,336757,Accessories,Helmets
+75,Racing Jacket,4/11/2020,173992,Clothing,Jackets
+76,Road Bike 350,4/12/2020,140411,Bikes,Road Bikes
+77,Mountain Bike 450,4/13/2020,262312,Bikes,Mountain Bikes
+78,Touring Bike 600,4/14/2020,189749,Bikes,Touring Bikes
+79,Standard Helmet,4/15/2020,462652,Accessories,Helmets
+80,Racing Jacket,4/16/2020,232420,Clothing,Jackets
+81,Road Bike 350,4/17/2020,489501,Bikes,Road Bikes
+82,Mountain Bike 450,4/18/2020,458746,Bikes,Mountain Bikes
+83,Touring Bike 600,4/19/2020,167541,Bikes,Touring Bikes
+84,Standard Helmet,4/20/2020,279177,Accessories,Helmets
+85,Racing Jacket,4/21/2020,190709,Clothing,Jackets
+86,Road Bike 350,4/22/2020,128554,Bikes,Road Bikes
+87,Mountain Bike 450,4/23/2020,316232,Bikes,Mountain Bikes
+88,Touring Bike 600,4/24/2020,115417,Bikes,Touring Bikes
+89,Standard Helmet,4/25/2020,429028,Accessories,Helmets
+90,Racing Jacket,4/26/2020,202097,Clothing,Jackets
+91,Road Bike 350,4/27/2020,486455,Bikes,Road Bikes
+92,Mountain Bike 450,4/28/2020,193699,Bikes,Mountain Bikes
+93,Touring Bike 600,4/29/2020,494282,Bikes,Touring Bikes
+94,Standard Helmet,4/30/2020,439113,Accessories,Helmets
+95,Racing Jacket,5/1/2020,342867,Clothing,Jackets
+96,Road Bike 350,5/2/2020,153674,Bikes,Road Bikes
+97,Mountain Bike 450,5/3/2020,84805,Bikes,Mountain Bikes
+98,Touring Bike 600,5/4/2020,246332,Bikes,Touring Bikes
+99,Standard Helmet,5/5/2020,219943,Accessories,Helmets
+100,Racing Jacket,5/6/2020,383329,Clothing,Jackets
+101,Road Bike 350,5/7/2020,395426,Bikes,Road Bikes
+102,Mountain Bike 450,5/8/2020,410524,Bikes,Mountain Bikes
+103,Touring Bike 600,5/9/2020,132394,Bikes,Touring Bikes
+104,Standard Helmet,5/10/2020,347455,Accessories,Helmets
+105,Racing Jacket,5/11/2020,189632,Clothing,Jackets
+106,Road Bike 350,5/12/2020,451140,Bikes,Road Bikes
+107,Mountain Bike 450,5/13/2020,453718,Bikes,Mountain Bikes
+108,Touring Bike 600,5/14/2020,373584,Bikes,Touring Bikes
+109,Standard Helmet,5/15/2020,167640,Accessories,Helmets
+110,Racing Jacket,5/16/2020,192181,Clothing,Jackets
+111,Road Bike 350,5/17/2020,454927,Bikes,Road Bikes
+112,Mountain Bike 450,5/18/2020,179838,Bikes,Mountain Bikes
+113,Touring Bike 600,5/19/2020,321460,Bikes,Touring Bikes
+114,Standard Helmet,5/20/2020,205275,Accessories,Helmets
+115,Racing Jacket,5/21/2020,334257,Clothing,Jackets
+116,Road Bike 350,5/22/2020,271057,Bikes,Road Bikes
+117,Mountain Bike 450,5/23/2020,461809,Bikes,Mountain Bikes
+118,Touring Bike 600,5/24/2020,275280,Bikes,Touring Bikes
+119,Standard Helmet,5/25/2020,81090,Accessories,Helmets
+120,Racing Jacket,5/26/2020,491297,Clothing,Jackets
+121,Road Bike 350,5/27/2020,310042,Bikes,Road Bikes
+122,Mountain Bike 450,5/28/2020,129512,Bikes,Mountain Bikes
+123,Touring Bike 600,5/29/2020,227507,Bikes,Touring Bikes
+124,Standard Helmet,5/30/2020,161195,Accessories,Helmets
+125,Racing Jacket,5/31/2020,352083,Clothing,Jackets
+126,Road Bike 350,6/1/2020,222400,Bikes,Road Bikes
+127,Mountain Bike 450,6/2/2020,141998,Bikes,Mountain Bikes
+128,Touring Bike 600,6/3/2020,69620,Bikes,Touring Bikes
+129,Standard Helmet,6/4/2020,464632,Accessories,Helmets
+130,Racing Jacket,6/5/2020,150815,Clothing,Jackets
+131,Road Bike 350,6/6/2020,476853,Bikes,Road Bikes
+132,Mountain Bike 450,6/7/2020,171838,Bikes,Mountain Bikes
+133,Touring Bike 600,6/8/2020,375846,Bikes,Touring Bikes
+134,Standard Helmet,6/9/2020,186179,Accessories,Helmets
+135,Racing Jacket,6/10/2020,280223,Clothing,Jackets
+136,Road Bike 350,6/11/2020,261217,Bikes,Road Bikes
+137,Mountain Bike 450,6/12/2020,276447,Bikes,Mountain Bikes
+138,Touring Bike 600,6/13/2020,242761,Bikes,Touring Bikes
+139,Standard Helmet,6/14/2020,460881,Accessories,Helmets
+140,Racing Jacket,6/15/2020,122530,Clothing,Jackets
+141,Road Bike 350,6/16/2020,262281,Bikes,Road Bikes
+142,Mountain Bike 450,6/17/2020,435774,Bikes,Mountain Bikes
+143,Touring Bike 600,6/18/2020,273278,Bikes,Touring Bikes
+144,Standard Helmet,6/19/2020,499838,Accessories,Helmets
+145,Racing Jacket,6/20/2020,292428,Clothing,Jackets
+146,Road Bike 350,6/21/2020,338603,Bikes,Road Bikes
+147,Mountain Bike 450,6/22/2020,379988,Bikes,Mountain Bikes
+148,Touring Bike 600,6/23/2020,236010,Bikes,Touring Bikes
+149,Standard Helmet,6/24/2020,450220,Accessories,Helmets
+150,Racing Jacket,6/25/2020,206272,Clothing,Jackets
+151,Road Bike 350,6/26/2020,307685,Bikes,Road Bikes
+152,Mountain Bike 450,6/27/2020,82230,Bikes,Mountain Bikes
+153,Touring Bike 600,6/28/2020,496801,Bikes,Touring Bikes
+154,Standard Helmet,6/29/2020,364577,Accessories,Helmets
+155,Racing Jacket,6/30/2020,215196,Clothing,Jackets
+156,Road Bike 350,7/1/2020,156822,Bikes,Road Bikes
+157,Mountain Bike 450,7/2/2020,454377,Bikes,Mountain Bikes
+158,Touring Bike 600,7/3/2020,180567,Bikes,Touring Bikes
+159,Standard Helmet,7/4/2020,215415,Accessories,Helmets
+160,Racing Jacket,7/5/2020,200879,Clothing,Jackets
+161,Road Bike 350,7/6/2020,132053,Bikes,Road Bikes
+162,Mountain Bike 450,7/7/2020,356381,Bikes,Mountain Bikes
+163,Touring Bike 600,7/8/2020,49069,Bikes,Touring Bikes
+164,Standard Helmet,7/9/2020,142827,Accessories,Helmets
+165,Racing Jacket,7/10/2020,34835,Clothing,Jackets
+166,Road Bike 350,7/11/2020,181439,Bikes,Road Bikes
+167,Mountain Bike 450,7/12/2020,254503,Bikes,Mountain Bikes
+168,Touring Bike 600,7/13/2020,131958,Bikes,Touring Bikes
+169,Standard Helmet,7/14/2020,473244,Accessories,Helmets
+170,Racing Jacket,7/15/2020,69927,Clothing,Jackets
+171,Road Bike 350,7/16/2020,369054,Bikes,Road Bikes
+172,Mountain Bike 450,7/17/2020,392590,Bikes,Mountain Bikes
+173,Touring Bike 600,7/18/2020,160088,Bikes,Touring Bikes
+174,Standard Helmet,7/19/2020,32432,Accessories,Helmets
+175,Racing Jacket,7/20/2020,81290,Clothing,Jackets
+176,Road Bike 350,7/21/2020,418598,Bikes,Road Bikes
+177,Mountain Bike 450,7/22/2020,409379,Bikes,Mountain Bikes
+178,Touring Bike 600,7/23/2020,67345,Bikes,Touring Bikes
+179,Standard Helmet,7/24/2020,65242,Accessories,Helmets
+180,Racing Jacket,7/25/2020,199393,Clothing,Jackets
+181,Road Bike 350,7/26/2020,495543,Bikes,Road Bikes
+182,Mountain Bike 450,7/27/2020,412357,Bikes,Mountain Bikes
+183,Touring Bike 600,7/28/2020,127353,Bikes,Touring Bikes
+184,Standard Helmet,7/29/2020,37638,Accessories,Helmets
+185,Racing Jacket,7/30/2020,309874,Clothing,Jackets
+186,Road Bike 350,7/31/2020,108658,Bikes,Road Bikes
+187,Mountain Bike 450,8/1/2020,474574,Bikes,Mountain Bikes
+188,Touring Bike 600,8/2/2020,290296,Bikes,Touring Bikes
+189,Standard Helmet,8/3/2020,39217,Accessories,Helmets
+190,Racing Jacket,8/4/2020,80896,Clothing,Jackets
+191,Road Bike 350,8/5/2020,368828,Bikes,Road Bikes
+192,Mountain Bike 450,8/6/2020,116289,Bikes,Mountain Bikes
+193,Touring Bike 600,8/7/2020,198202,Bikes,Touring Bikes
+194,Standard Helmet,8/8/2020,498277,Accessories,Helmets
+195,Racing Jacket,8/9/2020,246160,Clothing,Jackets
+196,Road Bike 350,8/10/2020,126558,Bikes,Road Bikes
+197,Mountain Bike 450,8/11/2020,403375,Bikes,Mountain Bikes
+198,Touring Bike 600,8/12/2020,359971,Bikes,Touring Bikes
+199,Standard Helmet,8/13/2020,179024,Accessories,Helmets
+200,Racing Jacket,8/14/2020,207749,Clothing,Jackets
+201,Road Bike 350,8/15/2020,211416,Bikes,Road Bikes
+202,Mountain Bike 450,8/16/2020,265264,Bikes,Mountain Bikes
+203,Touring Bike 600,8/17/2020,227274,Bikes,Touring Bikes
+204,Standard Helmet,8/18/2020,426190,Accessories,Helmets
+205,Racing Jacket,8/19/2020,364846,Clothing,Jackets
+206,Road Bike 350,8/20/2020,109322,Bikes,Road Bikes
+207,Mountain Bike 450,8/21/2020,29442,Bikes,Mountain Bikes
+208,Touring Bike 600,8/22/2020,75216,Bikes,Touring Bikes
+209,Standard Helmet,8/23/2020,377317,Accessories,Helmets
+210,Racing Jacket,8/24/2020,208429,Clothing,Jackets
+211,Road Bike 350,8/25/2020,365909,Bikes,Road Bikes
+212,Mountain Bike 450,8/26/2020,301756,Bikes,Mountain Bikes
+213,Touring Bike 600,8/27/2020,91128,Bikes,Touring Bikes
+214,Standard Helmet,8/28/2020,213661,Accessories,Helmets
+215,Racing Jacket,8/29/2020,271711,Clothing,Jackets
+216,Road Bike 350,8/30/2020,269836,Bikes,Road Bikes
+217,Mountain Bike 450,8/31/2020,155826,Bikes,Mountain Bikes
+218,Touring Bike 600,9/1/2020,355550,Bikes,Touring Bikes
+219,Standard Helmet,9/2/2020,223068,Accessories,Helmets
+220,Racing Jacket,9/3/2020,492337,Clothing,Jackets
+221,Road Bike 350,9/4/2020,316732,Bikes,Road Bikes
+222,Mountain Bike 450,9/5/2020,343399,Bikes,Mountain Bikes
+223,Touring Bike 600,9/6/2020,464489,Bikes,Touring Bikes
+224,Standard Helmet,9/7/2020,393748,Accessories,Helmets
+225,Racing Jacket,9/8/2020,498957,Clothing,Jackets
+226,Road Bike 350,9/9/2020,150805,Bikes,Road Bikes
+227,Mountain Bike 450,9/10/2020,488659,Bikes,Mountain Bikes
+228,Touring Bike 600,9/11/2020,174994,Bikes,Touring Bikes
+229,Standard Helmet,9/12/2020,90547,Accessories,Helmets
+230,Racing Jacket,9/13/2020,106090,Clothing,Jackets
+231,Road Bike 350,9/14/2020,182541,Bikes,Road Bikes
+232,Mountain Bike 450,9/15/2020,435311,Bikes,Mountain Bikes
+233,Touring Bike 600,9/16/2020,309797,Bikes,Touring Bikes
+234,Standard Helmet,9/17/2020,80623,Accessories,Helmets
+235,Racing Jacket,9/18/2020,109558,Clothing,Jackets
+236,Road Bike 350,9/19/2020,249007,Bikes,Road Bikes
+237,Mountain Bike 450,9/20/2020,159203,Bikes,Mountain Bikes
+238,Touring Bike 600,9/21/2020,368810,Bikes,Touring Bikes
+239,Standard Helmet,9/22/2020,75355,Accessories,Helmets
+240,Racing Jacket,9/23/2020,213241,Clothing,Jackets
+241,Road Bike 350,9/24/2020,486971,Bikes,Road Bikes
+242,Mountain Bike 450,9/25/2020,180113,Bikes,Mountain Bikes
+243,Touring Bike 600,9/26/2020,334565,Bikes,Touring Bikes
+244,Standard Helmet,9/27/2020,139642,Accessories,Helmets
+245,Racing Jacket,9/28/2020,193648,Clothing,Jackets
+246,Road Bike 350,9/29/2020,358643,Bikes,Road Bikes
+247,Mountain Bike 450,9/30/2020,403368,Bikes,Mountain Bikes
+248,Touring Bike 600,10/1/2020,52869,Bikes,Touring Bikes
+249,Standard Helmet,10/2/2020,224771,Accessories,Helmets
+250,Racing Jacket,10/3/2020,303458,Clothing,Jackets
+251,Road Bike 350,10/4/2020,332682,Bikes,Road Bikes
+252,Mountain Bike 450,10/5/2020,205014,Bikes,Mountain Bikes
+253,Touring Bike 600,10/6/2020,127048,Bikes,Touring Bikes
+254,Standard Helmet,10/7/2020,288491,Accessories,Helmets
+255,Racing Jacket,10/8/2020,327501,Clothing,Jackets
+256,Road Bike 350,10/9/2020,145893,Bikes,Road Bikes
+257,Mountain Bike 450,10/10/2020,106043,Bikes,Mountain Bikes
+258,Touring Bike 600,10/11/2020,351415,Bikes,Touring Bikes
+259,Standard Helmet,10/12/2020,298015,Accessories,Helmets
+260,Racing Jacket,10/13/2020,98304,Clothing,Jackets
+261,Road Bike 350,10/14/2020,96454,Bikes,Road Bikes
+262,Mountain Bike 450,10/15/2020,52869,Bikes,Mountain Bikes
+263,Touring Bike 600,10/16/2020,467726,Bikes,Touring Bikes
+264,Standard Helmet,10/17/2020,102385,Accessories,Helmets
+265,Racing Jacket,10/18/2020,103875,Clothing,Jackets
+266,Road Bike 350,10/19/2020,294058,Bikes,Road Bikes
+267,Mountain Bike 450,10/20/2020,228488,Bikes,Mountain Bikes
+268,Touring Bike 600,10/21/2020,168791,Bikes,Touring Bikes
+269,Standard Helmet,10/22/2020,321850,Accessories,Helmets
+270,Racing Jacket,10/23/2020,481247,Clothing,Jackets
+271,Road Bike 350,10/24/2020,91316,Bikes,Road Bikes
+272,Mountain Bike 450,10/25/2020,300454,Bikes,Mountain Bikes
+273,Touring Bike 600,10/26/2020,204511,Bikes,Touring Bikes
+274,Standard Helmet,10/27/2020,65038,Accessories,Helmets
+275,Racing Jacket,10/28/2020,159842,Clothing,Jackets
+276,Road Bike 350,10/29/2020,326795,Bikes,Road Bikes
+277,Mountain Bike 450,10/30/2020,198098,Bikes,Mountain Bikes
+278,Touring Bike 600,10/31/2020,205197,Bikes,Touring Bikes
+279,Standard Helmet,11/1/2020,430233,Accessories,Helmets
+280,Racing Jacket,11/2/2020,61927,Clothing,Jackets
+281,Road Bike 350,11/3/2020,308436,Bikes,Road Bikes
+282,Mountain Bike 450,11/4/2020,388039,Bikes,Mountain Bikes
+283,Touring Bike 600,11/5/2020,136792,Bikes,Touring Bikes
+284,Standard Helmet,11/6/2020,360217,Accessories,Helmets
+285,Racing Jacket,11/7/2020,482016,Clothing,Jackets
+286,Road Bike 350,11/8/2020,150612,Bikes,Road Bikes
+287,Mountain Bike 450,11/9/2020,319907,Bikes,Mountain Bikes
+288,Touring Bike 600,11/10/2020,488597,Bikes,Touring Bikes
+289,Standard Helmet,11/11/2020,467924,Accessories,Helmets
+290,Racing Jacket,11/12/2020,203155,Clothing,Jackets
+291,Road Bike 350,11/13/2020,311590,Bikes,Road Bikes
+292,Mountain Bike 450,11/14/2020,408026,Bikes,Mountain Bikes
+293,Touring Bike 600,11/15/2020,120779,Bikes,Touring Bikes
+294,Standard Helmet,11/16/2020,322667,Accessories,Helmets
+295,Racing Jacket,11/17/2020,72767,Clothing,Jackets
+296,Road Bike 350,11/18/2020,317476,Bikes,Road Bikes
+297,Mountain Bike 450,11/19/2020,146253,Bikes,Mountain Bikes
+298,Touring Bike 600,11/20/2020,314998,Bikes,Touring Bikes
+299,Standard Helmet,11/21/2020,407288,Accessories,Helmets
+300,Racing Jacket,11/22/2020,343271,Clothing,Jackets
+301,Road Bike 350,11/23/2020,120715,Bikes,Road Bikes
+302,Mountain Bike 450,11/24/2020,201502,Bikes,Mountain Bikes
+303,Touring Bike 600,11/25/2020,406981,Bikes,Touring Bikes
+304,Standard Helmet,11/26/2020,442556,Accessories,Helmets
+305,Racing Jacket,11/27/2020,466989,Clothing,Jackets
+306,Road Bike 350,11/28/2020,358939,Bikes,Road Bikes
+307,Mountain Bike 450,11/29/2020,462019,Bikes,Mountain Bikes
+308,Touring Bike 600,11/30/2020,112680,Bikes,Touring Bikes
+309,Standard Helmet,12/1/2020,378864,Accessories,Helmets
+310,Racing Jacket,12/2/2020,230232,Clothing,Jackets
+311,Road Bike 350,12/3/2020,461256,Bikes,Road Bikes
+312,Mountain Bike 450,12/4/2020,396505,Bikes,Mountain Bikes
+313,Touring Bike 600,12/5/2020,30291,Bikes,Touring Bikes
+314,Standard Helmet,12/6/2020,327711,Accessories,Helmets
+315,Racing Jacket,12/7/2020,27959,Clothing,Jackets
+316,Road Bike 350,12/8/2020,435530,Bikes,Road Bikes
+317,Mountain Bike 450,12/9/2020,346205,Bikes,Mountain Bikes
+318,Touring Bike 600,12/10/2020,351446,Bikes,Touring Bikes
+319,Standard Helmet,12/11/2020,339001,Accessories,Helmets
+320,Racing Jacket,12/12/2020,278807,Clothing,Jackets
+321,Road Bike 350,12/13/2020,257733,Bikes,Road Bikes
+322,Mountain Bike 450,12/14/2020,451183,Bikes,Mountain Bikes
+323,Touring Bike 600,12/15/2020,386052,Bikes,Touring Bikes
+324,Standard Helmet,12/16/2020,153871,Accessories,Helmets
+325,Racing Jacket,12/17/2020,64526,Clothing,Jackets
+326,Road Bike 350,12/18/2020,123840,Bikes,Road Bikes
+327,Mountain Bike 450,12/19/2020,144970,Bikes,Mountain Bikes
+328,Touring Bike 600,12/20/2020,498690,Bikes,Touring Bikes
+329,Standard Helmet,12/21/2020,292772,Accessories,Helmets
+330,Racing Jacket,12/22/2020,213603,Clothing,Jackets
+331,Road Bike 350,12/23/2020,356808,Bikes,Road Bikes
+332,Mountain Bike 450,12/24/2020,214530,Bikes,Mountain Bikes
+333,Touring Bike 600,12/25/2020,402980,Bikes,Touring Bikes
+334,Standard Helmet,12/26/2020,85037,Accessories,Helmets
+335,Racing Jacket,12/27/2020,281917,Clothing,Jackets
+336,Road Bike 350,12/28/2020,182949,Bikes,Road Bikes
+337,Mountain Bike 450,12/29/2020,166496,Bikes,Mountain Bikes
+338,Touring Bike 600,12/30/2020,230957,Bikes,Touring Bikes
+339,Standard Helmet,12/31/2020,160918,Accessories,Helmets
+340,Racing Jacket,1/1/2021,117982,Clothing,Jackets
+341,Road Bike 350,1/2/2021,196007,Bikes,Road Bikes
+342,Mountain Bike 450,1/3/2021,240090,Bikes,Mountain Bikes
+343,Touring Bike 600,1/4/2021,151224,Bikes,Touring Bikes
+344,Standard Helmet,1/5/2021,134024,Accessories,Helmets
+345,Racing Jacket,1/6/2021,66490,Clothing,Jackets
+346,Road Bike 350,1/7/2021,62308,Bikes,Road Bikes
+347,Mountain Bike 450,1/8/2021,191635,Bikes,Mountain Bikes
+348,Touring Bike 600,1/9/2021,31474,Bikes,Touring Bikes
+349,Standard Helmet,1/10/2021,300266,Accessories,Helmets
+350,Racing Jacket,1/11/2021,36701,Clothing,Jackets
+351,Road Bike 350,1/12/2021,85756,Bikes,Road Bikes
+352,Mountain Bike 450,1/13/2021,467522,Bikes,Mountain Bikes
+353,Touring Bike 600,1/14/2021,342646,Bikes,Touring Bikes
+354,Standard Helmet,1/15/2021,413617,Accessories,Helmets
+355,Racing Jacket,1/16/2021,394965,Clothing,Jackets
+356,Road Bike 350,1/17/2021,228634,Bikes,Road Bikes
+357,Mountain Bike 450,1/18/2021,350589,Bikes,Mountain Bikes
+358,Touring Bike 600,1/19/2021,169019,Bikes,Touring Bikes
+359,Standard Helmet,1/20/2021,471538,Accessories,Helmets
+360,Racing Jacket,1/21/2021,102436,Clothing,Jackets
+361,Road Bike 350,1/22/2021,172078,Bikes,Road Bikes
+362,Mountain Bike 450,1/23/2021,411381,Bikes,Mountain Bikes
+363,Touring Bike 600,1/24/2021,256376,Bikes,Touring Bikes
+364,Standard Helmet,1/25/2021,278546,Accessories,Helmets
+365,Racing Jacket,1/26/2021,494587,Clothing,Jackets
+366,Road Bike 350,1/27/2021,363627,Bikes,Road Bikes
+367,Mountain Bike 450,1/28/2021,367290,Bikes,Mountain Bikes
+368,Touring Bike 600,1/29/2021,497478,Bikes,Touring Bikes
+369,Standard Helmet,1/30/2021,200000,Accessories,Helmets
+370,Racing Jacket,1/31/2021,206488,Clothing,Jackets
+371,Road Bike 350,2/1/2021,39477,Bikes,Road Bikes
+372,Mountain Bike 450,2/2/2021,377249,Bikes,Mountain Bikes
+373,Touring Bike 600,2/3/2021,52351,Bikes,Touring Bikes
+374,Standard Helmet,2/4/2021,89484,Accessories,Helmets
